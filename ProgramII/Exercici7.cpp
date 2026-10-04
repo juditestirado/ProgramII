@@ -12,6 +12,7 @@
 //•	Consultar si la reserva està activa.
 //•	No permetre modificar les nits si la reserva està cancel·lada.
 
+
 #include <iostream>
 #include <string>
 using namespace std;
